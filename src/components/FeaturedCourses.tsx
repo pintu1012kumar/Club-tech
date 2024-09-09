@@ -1,7 +1,7 @@
 'use client'
 import Link from "next/link"
 import courseData from "../data/dance_courses.json"
-import { BackgroundGradient } from "./ui/background-gradient"
+import { BackgroundGradient } from "./ui/Background-gradient"
 
 interface Course{
     id: number,
