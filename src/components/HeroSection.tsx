@@ -20,7 +20,7 @@ function HeroSection() {
             > You Should Follow</h1> */}
             <p
             className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto"
-            >Dive into our comprehensive music courses and transform your musical journey today. Whether you're a beginner or looking to refine your skills, join us to unlock your true potential.</p>
+            >Step-by-Step Development Roadmap for Building a Web Platform: From Planning and Design to Backend, Frontend, Security, and Deployment for an Optimal User Experience.</p>
             <div className="mt-4">
                 <Link href={"/courses"}>
                     <Button

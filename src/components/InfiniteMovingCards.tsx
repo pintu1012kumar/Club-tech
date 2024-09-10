@@ -8,7 +8,7 @@ export function InfiniteMovingCardsDemo() {
     <div className="h-[40rem] rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
       <div>
         <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
-          Learn With the Best
+          Feedbacks..
         </p>
       </div>
       <div className="pt-5 mt-10">
